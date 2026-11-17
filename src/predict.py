@@ -1,4 +1,4 @@
-"""Submission entry point for 262-planet-hunters.
+"""Submission entry point for 262-exoplanet-vetting.
 
 The committee calls predict(df) once on the hidden test set. df has the test
 columns described in the README. Return 1 (confirmed planet) or 0 (false positive) per row,
